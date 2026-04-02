@@ -1,7 +1,7 @@
 # Previsão de Vendas com Regressão Linear Simples
 
 Este projeto é um exemplo de análise e previsão de vendas mensais para diferentes produtos de uma rede de lojas de tintas, utilizando regressão linear simples.
-
+### Integrantes: Lucas Casagrande Silva e Luís Felipe Sousa Foresto
 ---
 
 ## Objetivo
